@@ -1,5 +1,5 @@
 import React,{Component,Fragment} from 'react'
-import './static/App.css'
+import './App.css'
 import Page from "./Page";
 import {
     BrowserRouter as Router,
