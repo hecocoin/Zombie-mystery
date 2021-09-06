@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-crypto-zombie/static/css/main.682e4307.chunk.css",
-    "main.js": "/my-crypto-zombie/static/js/main.0676ba24.chunk.js",
-    "main.js.map": "/my-crypto-zombie/static/js/main.0676ba24.chunk.js.map",
-    "runtime-main.js": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js",
-    "runtime-main.js.map": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js.map",
-    "static/js/2.f0b92df7.chunk.js": "/my-crypto-zombie/static/js/2.f0b92df7.chunk.js",
-    "static/js/2.f0b92df7.chunk.js.map": "/my-crypto-zombie/static/js/2.f0b92df7.chunk.js.map",
-    "index.html": "/my-crypto-zombie/index.html",
-    "precache-manifest.e7faa0f63fef6e50cd9656f9e51ba469.js": "/my-crypto-zombie/precache-manifest.e7faa0f63fef6e50cd9656f9e51ba469.js",
-    "service-worker.js": "/my-crypto-zombie/service-worker.js",
-    "static/css/main.682e4307.chunk.css.map": "/my-crypto-zombie/static/css/main.682e4307.chunk.css.map",
-    "static/js/2.f0b92df7.chunk.js.LICENSE": "/my-crypto-zombie/static/js/2.f0b92df7.chunk.js.LICENSE",
-    "static/media/App.css": "/my-crypto-zombie/static/media/walls.b102b800.jpg",
-    "static/media/ZombiePreview.css": "/my-crypto-zombie/static/media/zombierun.08087132.png"
+    "main.css": "/Zombie-mystery/static/css/main.1221fce9.chunk.css",
+    "main.js": "/Zombie-mystery/static/js/main.2d63f593.chunk.js",
+    "main.js.map": "/Zombie-mystery/static/js/main.2d63f593.chunk.js.map",
+    "runtime-main.js": "/Zombie-mystery/static/js/runtime-main.2b5813c1.js",
+    "runtime-main.js.map": "/Zombie-mystery/static/js/runtime-main.2b5813c1.js.map",
+    "static/js/2.78922c3b.chunk.js": "/Zombie-mystery/static/js/2.78922c3b.chunk.js",
+    "static/js/2.78922c3b.chunk.js.map": "/Zombie-mystery/static/js/2.78922c3b.chunk.js.map",
+    "index.html": "/Zombie-mystery/index.html",
+    "precache-manifest.0e19b26d99b62764dc05b57ea589f115.js": "/Zombie-mystery/precache-manifest.0e19b26d99b62764dc05b57ea589f115.js",
+    "service-worker.js": "/Zombie-mystery/service-worker.js",
+    "static/css/main.1221fce9.chunk.css.map": "/Zombie-mystery/static/css/main.1221fce9.chunk.css.map",
+    "static/js/2.78922c3b.chunk.js.LICENSE": "/Zombie-mystery/static/js/2.78922c3b.chunk.js.LICENSE",
+    "static/media/App.css": "/Zombie-mystery/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/Zombie-mystery/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c1a62d7.js",
-    "static/js/2.f0b92df7.chunk.js",
-    "static/css/main.682e4307.chunk.css",
-    "static/js/main.0676ba24.chunk.js"
+    "static/js/runtime-main.2b5813c1.js",
+    "static/js/2.78922c3b.chunk.js",
+    "static/css/main.1221fce9.chunk.css",
+    "static/js/main.2d63f593.chunk.js"
   ]
 }
